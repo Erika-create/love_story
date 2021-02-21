@@ -1,6 +1,7 @@
 h2{font-size: 20px, color: black;}
 body{
     position: relative;
+    background-image: url(mig.jpeg);
 }
 div.first{
     position: absolute;
@@ -13,7 +14,6 @@ div.first{
     height: 3.2rem;
     font-size: 16px;
     font-family: "Kokoro", cursive;
-    background-image: url(mig.jpeg);
 }
 
 /*スマートフォン用のCSS*/
