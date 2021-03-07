@@ -2,6 +2,10 @@ h2{font-size: 20px, color: black;}
 body{
     position: relative;
     background-image: url(mig.jpeg);
+    background-repeat: no-repeat;
+    background-size:1500px 820px;
+    background-position: 0% 0%;
+    background-attachment: fixed;
 }
 div.first{
     position: absolute;
