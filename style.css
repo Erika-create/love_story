@@ -20,7 +20,7 @@ div.first{
     background: rgba(0,0,0,0.3);
 }
 
-* {
+ol {
     list-style-type: none;
 }
 
