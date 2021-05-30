@@ -18,8 +18,12 @@ div.first{
     height: 3.2rem;
     font-size: 16px;
     font-family: "Kokoro", cursive;
-    background: rgba(0,0,0,0.5)
 }
+
+text{
+    background: rgba(0,0,0,0.5);
+}
+
 
 /*スマートフォン用のCSS*/
 @media screen and (max-width:480px) {
