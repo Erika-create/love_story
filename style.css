@@ -19,7 +19,7 @@ div.first{
     font-family: "Kokoro", cursive;
     background: rgba(0,0,0,0.3);
 }
-l_toc>ol {
+ol {
     list-style-type: none;
 }
 
