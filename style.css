@@ -48,13 +48,13 @@ ol {
 	-webkit-box-sizing: border-box;
 	        box-sizing: border-box;
 }
-.cp_navi {
+.l_toc {
 	position: relative;
 	overflow: hidden;
 	width: 360px;
 	height:360px;
 }
-.cp_navi #cp_sidenav a {
+.l_toc a {
 	font-size: 20px;
 	position: absolute;
 	left: -95px;
@@ -66,10 +66,10 @@ ol {
 	color: #ffffff;
 	border-radius: 0 5px 5px 0;
 }
-.cp_navi #cp_sidenav a:hover {
+.l_toc a:hover {
 	left: -10px;
 }
-.cp_navi #home {
+.l_toc #prolouge {
 	top: 20px;
 	background-color: #da3c41;
 }
