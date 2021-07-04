@@ -49,7 +49,7 @@ ol {
 	        box-sizing: border-box;
 }
 .cp_navi {
-	position: relative;
+	position: absolute;
 	overflow: hidden;
 	width: 360px;
 	height:360px;
