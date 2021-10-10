@@ -14,3 +14,14 @@ div.first{
     width: 300;
     height: 350
 }
+
+div.second{
+    position: absolute;
+    top; 0;
+    right: 10;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 400;
+    height: 350;
+}
