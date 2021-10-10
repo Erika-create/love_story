@@ -3,25 +3,3 @@ body{
     background-color: aquamarine;
     background-repeat: no-repeat;
 }
-
-div.first{
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    margin: auto;
-    width: 300;
-    height: 350
-}
-
-div.second{
-    position: absolute;
-    top: 0;
-    right: 20;
-    bottom: 20;
-    left: -100;
-    margin: auto;
-    width: 400;
-    height: 350;
-}
