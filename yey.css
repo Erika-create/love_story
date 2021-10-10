@@ -18,8 +18,8 @@ div.first{
 div.second{
     position: absolute;
     top: 0;
-    right: 100;
-    bottom: 0;
+    right: 20;
+    bottom: 20;
     left: -100;
     margin: auto;
     width: 400;
